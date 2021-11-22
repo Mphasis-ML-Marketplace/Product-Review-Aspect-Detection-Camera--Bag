@@ -1,0 +1,48 @@
+{
+ "review": "I have had and used (borderline abused!) my canon camera bag for about 10 years and can't recommend it enough. It is has taken a beating but still looks great and has held up really well. The bag is sturdy and protective. It has perfect amount of space for my Canon 60D, with enough room to cary an additional small micro-lens. (When I had a smaller DLSR, the bag perfectly held the camera body and 2 larger lenses). I recently repurchased this camera bag for my father.",
+ "topics": [
+  {
+   "aspect": {
+    "versatality": 0.4850679692606684
+   },
+   "sentence": "borderline abuse"
+  },
+  {
+   "aspect": {
+    "size": 0.3065129392699415
+   },
+   "sentence": "canon camera bag year recommend"
+  },
+  {
+   "aspect": {
+    "asthetics": 0.5131470989408985
+   },
+   "sentence": "take beating look great hold"
+  },
+  {
+   "aspect": {
+    "asthetics": 0.3703455002942877,
+    "safety": 0.3419004271639299
+   },
+   "sentence": "bag sturdy protective"
+  },
+  {
+   "aspect": {
+    "size": 0.39124505133832754
+   },
+   "sentence": "perfect space canon d room cary additional small micro lens"
+  },
+  {
+   "aspect": {
+    "size": 0.8329886471126292
+   },
+   "sentence": "small dlsr bag perfectly hold camera body large lens"
+  },
+  {
+   "aspect": {
+    "ergonomics": 0.5470823724398397
+   },
+   "sentence": "recently repurchase camera bag father"
+  }
+ ]
+}
